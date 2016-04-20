@@ -4,3 +4,6 @@ H:\ProgrammingProjects\deciv-melee-combat-sim\Deciv Melee Combat Sim\obj\Debug\D
 H:\ProgrammingProjects\deciv-melee-combat-sim\combat-sim\bin\Debug\Deciv Melee Combat Sim.exe.config
 H:\ProgrammingProjects\deciv-melee-combat-sim\combat-sim\obj\Debug\Deciv Melee Combat Sim.exe
 H:\ProgrammingProjects\deciv-melee-combat-sim\combat-sim\obj\Debug\Deciv Melee Combat Sim.pdb
+H:\ProgrammingProjects\deciv-melee-combat-sim\combat-sim\bin\Debug\Deciv Melee Combat Sim.exe
+H:\ProgrammingProjects\deciv-melee-combat-sim\combat-sim\bin\Debug\Deciv Melee Combat Sim.pdb
+H:\ProgrammingProjects\deciv-melee-combat-sim\combat-sim\obj\Debug\combat-sim.csprojResolveAssemblyReference.cache
